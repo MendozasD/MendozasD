@@ -1,9 +1,7 @@
 <h1 align="center">Hoi 👋, I'm David!</h1>
 <h3 align="center">A passionate junior frontend developer from Colombia living in Zürich.</h3>
 
-- 🔭 I’m currently working on [BuyTheBulk](https://github.com/jvanleersum/BuyTheBulk)
-
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **info@davidmendoza.ch**
 
